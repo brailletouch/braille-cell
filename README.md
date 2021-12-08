@@ -1,7 +1,7 @@
-** About
-for development of different braille cells / para desarrollo de distintas celdas brailles
+** About for development of different braille cells / para desarrollo de distintas celdas brailles
 
 ![Figura 1. Vista lateral de una celda Braille piezobimorfa típica.](https://github.com/brailletouch/braille-cell/blob/main/images/braillecell.jpg)
+
 Figure 1. Lateral view of a typical piezo bimorph Braille cell. / Figura 1. Vista lateral de una celda Braille piezobimorfa típica.
 
 
